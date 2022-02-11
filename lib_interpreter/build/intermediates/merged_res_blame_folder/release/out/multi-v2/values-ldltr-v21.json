@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eduardo/examples/lite/examples/object_detection/android/lib_interpreter/build/intermediates/merged_res/release/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/eduardo/.gradle/caches/transforms-3/90c23bf930fa2b80c297c7745295dfd7/transformed/appcompat-1.3.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/eduardo/examples/lite/examples/object_detection/android/lib_interpreter/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/eduardo/.gradle/caches/transforms-3/90c23bf930fa2b80c297c7745295dfd7/transformed/appcompat-1.3.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
